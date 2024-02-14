@@ -1,0 +1,10 @@
+.post_title {
+    color: white;
+    padding: 1rem 0.6rem;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 17px;
+}
+
+.post_body {
+    background-color: rgb(77, 3, 77);
+}

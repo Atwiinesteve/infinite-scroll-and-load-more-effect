@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@tanstack/react-query": "^5.20.5",
+    "react-intersection-observer": "^9.8.0"
+  }
+}
